@@ -3,7 +3,7 @@
   "app": "npx ts-node main.ts",
   "projectId": "d18ccf5c-e93f-420a-82c5-061da9dafe75",
   "terraformProviders": [
-    "docker"
+    
   ],
   "terraformModules": [],
   "context": {
